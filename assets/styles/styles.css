@@ -440,7 +440,7 @@ nav ul li{
 	}
   }
 #profile-photo:hover{
-	
+	border: 10px solid lightblue;
 	opacity: 80%;
 	
 }
